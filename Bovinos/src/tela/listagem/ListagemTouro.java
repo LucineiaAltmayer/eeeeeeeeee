@@ -8,7 +8,7 @@ import controlador.ControladorTouro;
 import tela.manutencao.ManutencaoTouro;
 /**
  *
- * @author Avell
+ * @author lucineia
  */
 public class ListagemTouro extends javax.swing.JDialog {
 

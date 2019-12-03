@@ -7,7 +7,7 @@ package tela.manutencao;
 import tela.listagem.ListagemVaca;
 /**
  *
- * @author Avell
+ * @author lucineia
  */
 public class ManutencaoVaca extends javax.swing.JDialog {
 public ListagemVaca listagem;

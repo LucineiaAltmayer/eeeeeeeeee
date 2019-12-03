@@ -9,7 +9,7 @@ import java.util.Objects;
 
 /**
  *
- * @author Avell
+ * @author lucineia
  */
 public class Pessoa {
     private Integer codigo;

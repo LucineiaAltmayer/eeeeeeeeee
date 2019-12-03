@@ -8,7 +8,7 @@ import controlador.ControladorPessoa;
 import tela.manutencao.ManutencaoPessoa;
 /**
  *
- * @author Avell
+ * @author lucineia
  */
 public class ListagemPessoa extends javax.swing.JDialog {
 

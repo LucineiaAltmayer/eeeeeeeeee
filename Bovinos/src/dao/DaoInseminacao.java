@@ -17,7 +17,7 @@ import java.util.ArrayList;
 import java.util.List;
 /**
  *
- * @author Avell
+ * @author lucineia
  */
 public class DaoInseminacao {
      public static boolean inserir(Inseminacao objeto) {

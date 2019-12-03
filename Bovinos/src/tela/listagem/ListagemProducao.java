@@ -8,7 +8,7 @@ import controlador.ControladorProducao;
 import tela.manutencao.ManutencaoProducao;
 /**
  *
- * @author Avell
+ * @author lucineia
  */
 public class ListagemProducao extends javax.swing.JDialog {
 

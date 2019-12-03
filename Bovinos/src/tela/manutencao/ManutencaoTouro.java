@@ -7,7 +7,7 @@ package tela.manutencao;
 import tela.listagem.ListagemTouro;
 /**
  *
- * @author Avell
+ * @author lucineia
  */
 public class ManutencaoTouro extends javax.swing.JDialog {
 public ListagemTouro listagem;

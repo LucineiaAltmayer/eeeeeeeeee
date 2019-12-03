@@ -10,7 +10,7 @@ import java.util.Objects;
 
 /**
  *
- * @author Avell
+ * @author lucineia
  */
 public class Vaca {
     private Integer codigo;

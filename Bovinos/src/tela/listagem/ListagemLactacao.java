@@ -8,7 +8,7 @@ import controlador.ControladorLactacao;
 import tela.manutencao.ManutencaoLactacao;
 /**
  *
- * @author Avell
+ * @author lucineia
  */
 public class ListagemLactacao extends javax.swing.JDialog {
 

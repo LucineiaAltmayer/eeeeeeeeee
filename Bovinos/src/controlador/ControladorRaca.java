@@ -15,7 +15,7 @@ import javax.swing.JTable;
 import javax.swing.table.DefaultTableModel;
 /**
  *
- * @author Avell
+ * @author lucineia
  */
 public class ControladorRaca {
     public static void inserir(ManutencaoRaca man){

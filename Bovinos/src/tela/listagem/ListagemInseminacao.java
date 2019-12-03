@@ -8,7 +8,7 @@ import controlador.ControladorInseminacao;
 import tela.manutencao.ManutencaoInseminacao;
 /**
  *
- * @author Avell
+ * @author lucineia
  */
 public class ListagemInseminacao extends javax.swing.JDialog {
 

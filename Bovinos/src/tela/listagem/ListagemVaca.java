@@ -8,7 +8,7 @@ import controlador.ControladorVaca;
 import tela.manutencao.ManutencaoVaca;
 /**
  *
- * @author Avell
+ * @author lucineia
  */
 public class ListagemVaca extends javax.swing.JDialog {
 

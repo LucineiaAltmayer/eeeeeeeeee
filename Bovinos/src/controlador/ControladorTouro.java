@@ -18,7 +18,7 @@ import javax.swing.table.DefaultTableModel;
 import modelo.Raca;
 /**
  *
- * @author Avell
+ * @author lucineia
  */
 public class ControladorTouro {
     public static void inserir(ManutencaoTouro man){

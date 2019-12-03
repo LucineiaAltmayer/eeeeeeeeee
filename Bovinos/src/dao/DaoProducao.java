@@ -15,7 +15,7 @@ import java.util.ArrayList;
 import java.util.List;
 /**
  *
- * @author Avell
+ * @author lucineia
  */
 public class DaoProducao {
      public static boolean inserir(Producao objeto) {

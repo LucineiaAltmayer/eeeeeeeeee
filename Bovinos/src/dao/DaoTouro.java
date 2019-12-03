@@ -13,7 +13,7 @@ import java.util.ArrayList;
 import java.util.List;
 /**
  *
- * @author Avell
+ * @author lucineia
  */
 public class DaoTouro {
      public static boolean inserir(Touro objeto) {

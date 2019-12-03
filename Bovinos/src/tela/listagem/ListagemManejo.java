@@ -8,7 +8,7 @@ import controlador.ControladorManejo;
 import tela.manutencao.ManutencaoManejo;
 /**
  *
- * @author Avell
+ * @author lucineia
  */
 public class ListagemManejo extends javax.swing.JDialog {
 

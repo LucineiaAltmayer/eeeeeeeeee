@@ -22,7 +22,7 @@ import modelo.Pessoa;
 import modelo.Vaca;
 /**
  *
- * @author Avell
+ * @author lucineia
  */
 public class ControladorProducao {
         public static void inserir(ManutencaoProducao man){

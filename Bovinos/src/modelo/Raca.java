@@ -9,7 +9,7 @@ import java.util.Objects;
 
 /**
  *
- * @author Avell
+ * @author lucineia
  */
 public class Raca {
     private Integer codigo;

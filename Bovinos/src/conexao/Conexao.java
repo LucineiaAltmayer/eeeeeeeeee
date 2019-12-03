@@ -13,7 +13,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author edimar
+ * @author lucineia
  */
 public class Conexao {
 

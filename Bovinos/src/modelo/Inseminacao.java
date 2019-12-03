@@ -11,7 +11,7 @@ import modelo.Vaca;
 
 /**
  *
- * @author Avell
+ * @author lucineia
  */
 public class Inseminacao {
     private Integer codigo;

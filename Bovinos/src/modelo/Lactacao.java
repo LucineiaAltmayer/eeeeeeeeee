@@ -10,7 +10,7 @@ import modelo.Vaca;
 
 /**
  *
- * @author Avell
+ * @author lucineia
  */
 public class Lactacao {
     private Integer codigo;
