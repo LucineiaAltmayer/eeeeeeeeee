@@ -126,7 +126,7 @@ public class TelaPrincipall extends javax.swing.JFrame {
         jLabel5.setFont(new java.awt.Font("Tahoma", 3, 11)); // NOI18N
         jLabel5.setText("Ladies of the Game!!");
 
-        jLabel7.setIcon(new javax.swing.ImageIcon("C:\\Users\\Administrador\\Pictures\\qqqq.png")); // NOI18N
+        jLabel7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/qqqq.png"))); // NOI18N
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
